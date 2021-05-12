@@ -1,5 +1,5 @@
 # Docker-mvn-pub
-A simple Spring Boot App to highlight how to dockerize it using Maven plugin.
+A simple Spring Boot App to highlight how to dockerize it using Maven plugin and push it to [Docker Hub](https://hub.docker.com/).
 
 # Steps
 1. Clone this repository or create a new [Spring Boot App](https://start.spring.io/)
